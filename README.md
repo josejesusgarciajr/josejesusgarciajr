@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Jose Jesus Garcia Jr
-- 👀 I’m interested in C#, ASP.Net Core, MVC, MSSQL, React, Azure, Azure DevOps, CI/CD
+- 👀 I’m interested in C#, ASP.NET Framework,ASP.Net Core, MVC, MSSQL, React, JQuery, Azure, Azure DevOps, CI/CD
 - 🌱 I’m currently learning React
 - 💞️ I am approaching 2 years of work experience as a .NET Developer
 - 📫 How to reach me: Email: josejesusgarciajr@gmail.com, Phone Number: (562) 966-3459
